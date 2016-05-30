@@ -1,0 +1,13 @@
+[package]
+name = "tar-streamer"
+version = "0.1.0"
+authors = ["shaded-enmity <the.arul@gmail.com>"]
+
+[dependencies]
+bitflags = "0.7.0"
+getopts = "0.2"
+flate2 = "0.2.14"
+tar = "0.4.5"
+zip = "0.1.17"
+bzip2 = "0.3.0"
+xz2 = "0.1.0"
